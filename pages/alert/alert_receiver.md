@@ -9,4 +9,5 @@
     ![Alt text](/images/receiver.jpg)
 
 2. 设置：   对接收人的短信启用状态，短信接受手机，电子邮件启用状态，电子邮件接受地址，微信启用状态，微信接受人进行设置 ，平台产生告警信息之后会根据所配置的接收人启用的接受方式推送告警信息。
+
     ![Alt text](/images/receiver_config.jpg)
